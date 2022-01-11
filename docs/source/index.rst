@@ -17,6 +17,6 @@ Contents
 --------
 
 .. toctree::
-
+docs/source/index.rst
    usage
    api
